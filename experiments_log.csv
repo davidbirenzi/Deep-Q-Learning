@@ -15,3 +15,4 @@ winston_lr1e-05_cnn,winston,ALE/Pong-v5,cnn,1e-05,0.99,32,1.0,0.05,0.1,500000,-2
 david_eps_baseline,david,ALE/Pong-v5,cnn,0.0001,0.99,32,1.0,0.05,0.1,500000,-20.86,3228.96,19715.6,models\dqn_model_david_eps_baseline.zip
 david_eps_baseline,david,ALE/Pong-v5,cnn,0.0001,0.99,32,1.0,0.05,0.1,500000,-20.9,3234.19,19723.7,models\dqn_model_david_eps_baseline.zip
 david_eps_fast_decay,david,ALE/Pong-v5,cnn,0.0001,0.99,32,1.0,0.05,0.05,500000,-18.75,7020.53,1755.3,/content/drive/MyDrive/Formative_3_Deep_Q_Learning/models/dqn_model_david_eps_fast_decay.zip
+david_eps_slow_decay,david,ALE/Pong-v5,cnn,0.0001,0.99,32,1.0,0.05,0.3,500000,-20.86,3213.52,1713.1,/content/drive/MyDrive/Formative_3_Deep_Q_Learning/models/dqn_model_david_eps_slow_decay.zip
