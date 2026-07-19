@@ -22,3 +22,4 @@ david_eps_high_end,david,ALE/Pong-v5,cnn,0.0001,0.99,32,1.0,0.1,0.1,500000,-18.5
 david_eps_mid_start,david,ALE/Pong-v5,cnn,0.0001,0.99,32,0.5,0.05,0.1,500000,-18.94,6398.61,1771.8,/content/drive/MyDrive/Formative_3_Deep_Q_Learning/models/dqn_model_david_eps_mid_start.zip
 david_eps_low_start,david,ALE/Pong-v5,cnn,0.0001,0.99,32,0.2,0.05,0.1,500000,-17.74,6509.6,1753.3,/content/drive/MyDrive/Formative_3_Deep_Q_Learning/models/dqn_model_david_eps_low_start.zip
 david_eps_high_start_slow,david,ALE/Pong-v5,cnn,0.0001,0.99,32,1.0,0.01,0.4,500000,-20.95,3131.95,1711.5,/content/drive/MyDrive/Formative_3_Deep_Q_Learning/models/dqn_model_david_eps_high_start_slow.zip
+david_eps_narrow,david,ALE/Pong-v5,cnn,0.0001,0.99,32,0.5,0.1,0.2,500000,-20.82,3224.22,1713.2,/content/drive/MyDrive/Formative_3_Deep_Q_Learning/models/dqn_model_david_eps_narrow.zip
